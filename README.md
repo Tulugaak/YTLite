@@ -5,6 +5,8 @@ This fork features the YTABConfig and NoYTPremium tweaks as well as simplified w
 
 For all YouTube versions above 20.15.1, tab bar customization will not work as of 5.2b1.
 
+20.21.6 is the last version compatible with iOS 15.
+
 ## Screenshots
 <table>
    <tr>
