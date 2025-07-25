@@ -3,7 +3,10 @@ A flexible enhancer for YouTube on iOS, featuring over a hundred customizable op
 
 This fork of YTPlus features the YTABConfig and NoYTPremium tweaks as well as simplified workflow options.
 
-20.21.6 is the last version compatible with iOS 15.
+Below is a list of the latest supported YouTube versions per iOS:</p>
+    <li><strong>iOS 14</strong>: YouTube v19.20.2</li>
+    <li><strong>iOS 15</strong>: YouTube v20.21.6</li>
+    <li><strong>iOS 16+</strong>: Any version, as supported by YouTube</li>
 
 ## Table of Contents
 - [Screenshots](#screenshots)
