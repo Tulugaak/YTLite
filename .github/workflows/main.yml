@@ -16,6 +16,12 @@ on:
         required: true
         default: false
 
+      enable_demc:
+        description: "Integrate DontEatMyContent (uncheck this box if your iDevice has a home button)"
+        type: boolean
+        required: true
+        default: false
+
       enable_yq:
         description: "Integrate YouQuality"
         type: boolean
@@ -24,12 +30,6 @@ on:
 
       enable_ryd:
         description: "Integrate Return YouTube Dislikes"
-        type: boolean
-        required: true
-        default: false
-
-      enable_demc:
-        description: "Integrate DontEatMyContent"
         type: boolean
         required: true
         default: false
