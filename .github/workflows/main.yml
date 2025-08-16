@@ -4,35 +4,35 @@ on:
   workflow_dispatch:
     inputs:
 
+      enable_demc:
+        description: "Integrate DontEatMyContent (uncheck this box if your iDevice has a home button)"
+        type: boolean
+        required: true
+        default: true
+        
       enable_youpip:
         description: "Integrate YouPiP"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_ytuhd:
         description: "Integrate YTUHD"
         type: boolean
         required: true
-        default: false
-
-      enable_demc:
-        description: "Integrate DontEatMyContent (uncheck this box if your iDevice has a home button)"
-        type: boolean
-        required: true
-        default: false
+        default: true
 
       enable_yq:
         description: "Integrate YouQuality"
         type: boolean
         required: true
-        default: false
+        default: true
 
       enable_ryd:
         description: "Integrate Return YouTube Dislikes"
         type: boolean
         required: true
-        default: false
+        default: true
 
       ipa_url:
         description: "URL to the decrypted IPA file"
