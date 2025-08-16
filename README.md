@@ -138,22 +138,21 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
 </details>
 
 <details>
+  <summary>DontEatMyContent</summary>
+  <p>DontEatMyContent is a tweak developed by <a href="https://github.com/therealFoxster">therealFoxster</a> that prevents the Notch/Dynamic Island from munching on 2:1 video content in the iOS YouTube app.</p>
+  <p><strong>DontEatMyContent preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
+  <p>Source code and additional information are available <a href="https://github.com/therealFoxster/DontEatMyContent">in therealFoxster's GitHub repository</a>.</p>
+</details>
+
+<details>
   <summary>YTABConfig</summary>
-  <p>YouQuality is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that allows to view and change video quality directly from the video overlay.</p>
-  <p><strong>YouQuality can be enabled</strong> in the <strong>Video overlay</strong> section under <strong>YouTube settings</strong>.</p>
+  <p>YTABConfig is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that users to configure A/B settings that YouTube might only enable for some users for testing.</p>
+  <p><strong>YTABConfig preferences</strong> are available in the <strong>A/B</strong> section under <strong>YouTube settings</strong>.</p>
   <p>Source code and additional information are available <a href="https://github.com/PoomSmart/YTABConfig">in PoomSmart's GitHub repository</a>.</p>
 </details>
 
 <details>
   <summary>NoYTPremium</summary>
-  <p>YouQuality is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that allows to view and change video quality directly from the video overlay.</p>
-  <p><strong>YouQuality can be enabled</strong> in the <strong>Video overlay</strong> section under <strong>YouTube settings</strong>.</p>
+  <p>NoYTPremium is a tweak developed by <a href="https://github.com/PoomSmart">PoomSmart</a> that gets rid of all YouTube Premium upsells.</p>
   <p>Source code and additional information are available <a href="https://github.com/PoomSmart/NoYTPremium">in PoomSmart's GitHub repository</a>.</p>
-</details>
-
-<details>
-  <summary>DontEatMyContent</summary>
-  <p>DontEatMyContent is a tweak developed by <a href="https://github.com/therealFoxster">therealFoxster</a> that prevents the Notch/Dynamic Island from munching on 2:1 video content in the iOS YouTube app.</p>
-  <p><strong>DontEatMyContent preferences</strong> are available in the <strong>YouTube settings</strong>.</p>
-  <p>Source code and additional information are available <a href="https://github.com/therealFoxster/DontEatMyContent">in therealFoxster's GitHub repository</a>.</p>
 </details>
